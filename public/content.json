@@ -1,0 +1,3350 @@
+{
+  "timestamp": "2025-04-30T07:00:00Z",
+  "min_version": "1.1.12",
+  "lessons": [
+    {
+      "id": 1,
+      "name": {
+        "am": "መሰረታዊ",
+        "en": "Basic",
+        "ti": "መሰረታዊ"
+      },
+      "description": {
+        "am": "መሰረታዊ የአረብኛ ፊደላቶች",
+        "en": "Learn basic Arabic letters",
+        "ti": "መሰረታዊ ዓረብኛ ፊደላት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "ا",
+          "transliteration": {
+            "am": "ኣሊፍ",
+            "ar": "ألف",
+            "en": "Alif",
+            "ti": "ኣሊፍ"
+          },
+          "example": {
+            "word": "",
+            "transliteration": {
+              "am": "",
+              "ar": "",
+              "en": "",
+              "ti": ""
+            },
+            "translation": {
+              "am": "ኣንበሳ",
+              "en": "Lion",
+              "ti": "ኣንበሳ"
+            }
+          },
+          "sound": "audio/level_1/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "ب",
+          "transliteration": {
+            "am": "ባእ",
+            "ar": "باء",
+            "en": "Baa",
+            "ti": "ባእ"
+          },
+          "sound": "audio/level_1/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "ت",
+          "transliteration": {
+            "am": "ታእ",
+            "en": "Taa",
+            "ti": "ታእ"
+          },
+          "sound": "audio/level_1/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ث",
+          "transliteration": {
+            "am": "ሳእ",
+            "en": "Thaa",
+            "ti": "ሳእ"
+          },
+          "sound": "audio/level_1/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "ج",
+          "transliteration": {
+            "am": "ጂም",
+            "en": "Jeem",
+            "ti": "ጂም"
+          },
+          "sound": "audio/level_1/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "ح",
+          "transliteration": {
+            "am": "ሓእ",
+            "en": "H'aa",
+            "ti": "ሓእ"
+          },
+          "sound": "audio/level_1/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خ",
+          "transliteration": {
+            "am": "ኻእ",
+            "en": "Khaa",
+            "ti": "ኻእ"
+          },
+          "sound": "audio/level_1/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "د",
+          "transliteration": {
+            "am": "ዳል",
+            "en": "Daal",
+            "ti": "ዳል"
+          },
+          "sound": "audio/level_1/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذ",
+          "transliteration": {
+            "am": "ዛል",
+            "en": "Zhaal",
+            "ti": "ዛል"
+          },
+          "sound": "audio/level_1/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "ر",
+          "transliteration": {
+            "am": "ራእ",
+            "en": "Raa",
+            "ti": "ራእ"
+          },
+          "sound": "audio/level_1/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "ز",
+          "transliteration": {
+            "am": "ዛእ",
+            "en": "Zaa",
+            "ti": "ዛእ"
+          },
+          "sound": "audio/level_1/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "س",
+          "transliteration": {
+            "am": "ሲን",
+            "en": "Seen",
+            "ti": "ሲን"
+          },
+          "sound": "audio/level_1/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "ش",
+          "transliteration": {
+            "am": "ሺን",
+            "en": "shin",
+            "ti": "ሺን"
+          },
+          "sound": "audio/level_1/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "ص",
+          "transliteration": {
+            "am": "ሷድ",
+            "en": "Saad",
+            "ti": "ሷድ"
+          },
+          "sound": "audio/level_1/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ض",
+          "transliteration": {
+            "am": "ዷድ",
+            "en": "Daad",
+            "ti": "ዷድ"
+          },
+          "sound": "audio/level_1/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "ط",
+          "transliteration": {
+            "am": "ጣእ",
+            "en": "Tua",
+            "ti": "ጣእ"
+          },
+          "sound": "audio/level_1/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظ",
+          "transliteration": {
+            "am": "ዛእ",
+            "en": "Zua",
+            "ti": "ዛእ"
+          },
+          "sound": "audio/level_1/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "ع",
+          "transliteration": {
+            "am": "ዓይን",
+            "en": "A'in",
+            "ti": "ዓይን"
+          },
+          "sound": "audio/level_1/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غ",
+          "transliteration": {
+            "am": "ገይን",
+            "en": "Ghain",
+            "ti": "ገይን"
+          },
+          "sound": "audio/level_1/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "ف",
+          "transliteration": {
+            "am": "ፋእ",
+            "en": "Faa",
+            "ti": "ፋእ"
+          },
+          "sound": "audio/level_1/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "ق",
+          "transliteration": {
+            "am": "ቓፍ",
+            "en": "Qaaf",
+            "ti": "ቓፍ"
+          },
+          "sound": "audio/level_1/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "ك",
+          "transliteration": {
+            "am": "ካፍ",
+            "en": "Kaaf",
+            "ti": "ካፍ"
+          },
+          "sound": "audio/level_1/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "ل",
+          "transliteration": {
+            "am": "ላም",
+            "en": "Laam",
+            "ti": "ላም"
+          },
+          "sound": "audio/level_1/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "م",
+          "transliteration": {
+            "am": "ሚም",
+            "en": "Meem",
+            "ti": "ሚም"
+          },
+          "sound": "audio/level_1/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "ن",
+          "transliteration": {
+            "am": "ኑን",
+            "en": "Noon",
+            "ti": "ኑን"
+          },
+          "sound": "audio/level_1/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "و",
+          "transliteration": {
+            "am": "ዋው",
+            "en": "Waau",
+            "ti": "ዋው"
+          },
+          "sound": "audio/level_1/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "ه",
+          "transliteration": {
+            "am": "ሃእ",
+            "en": "Haa",
+            "ti": "ሃእ"
+          },
+          "sound": "audio/level_1/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "ء",
+          "transliteration": {
+            "am": "ሃምዛ",
+            "en": "hamza",
+            "ti": "ሃምዛ"
+          },
+          "sound": "audio/level_1/28.mp3"
+        },
+        {
+          "id": 29,
+          "name": "ي",
+          "transliteration": {
+            "am": "ያእ",
+            "en": "Yaa",
+            "ti": "ያእ"
+          },
+          "sound": "audio/level_1/29.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "symbol": "أَ",
+      "name": {
+        "am": "ፈትሃ",
+        "en": "Fatha",
+        "ti": "ፈትሓ"
+      },
+      "description": {
+        "am": "ፈትሃ ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Fatha marks",
+        "ti": "ፊደላት ምስ ፈትሓ ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "أَ",
+          "transliteration": {
+            "am": "ኣ",
+            "en": "A",
+            "ti": "ኣ"
+          },
+          "sound": "audio/level_2/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بَ",
+          "transliteration": {
+            "am": "ባ",
+            "en": "Ba",
+            "ti": "ባ"
+          },
+          "sound": "audio/level_2/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تَ",
+          "transliteration": {
+            "am": "ታ",
+            "en": "Ta",
+            "ti": "ታ"
+          },
+          "sound": "audio/level_2/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثَ",
+          "transliteration": {
+            "am": "ሳ",
+            "en": "Tha",
+            "ti": "ሳ"
+          },
+          "sound": "audio/level_2/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جَ",
+          "transliteration": {
+            "am": "ጃ",
+            "en": "Ja",
+            "ti": "ጃ"
+          },
+          "sound": "audio/level_2/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حَ",
+          "transliteration": {
+            "am": "ሓ",
+            "en": "H'a",
+            "ti": "ሓ"
+          },
+          "sound": "audio/level_2/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خَ",
+          "transliteration": {
+            "am": "ኻ",
+            "en": "Kha",
+            "ti": "ኻ"
+          },
+          "sound": "audio/level_2/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دَ",
+          "transliteration": {
+            "am": "ዳ",
+            "en": "Da",
+            "ti": "ዳ"
+          },
+          "sound": "audio/level_2/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذَ",
+          "transliteration": {
+            "am": "ዛ",
+            "en": "Zha",
+            "ti": "ዛ"
+          },
+          "sound": "audio/level_2/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رَ",
+          "transliteration": {
+            "am": "ራ",
+            "en": "Ra",
+            "ti": "ራ"
+          },
+          "sound": "audio/level_2/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زَ",
+          "transliteration": {
+            "am": "ዛ",
+            "en": "za",
+            "ti": "ዛ"
+          },
+          "sound": "audio/level_2/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سَ",
+          "transliteration": {
+            "am": "ሳ",
+            "en": "Sa",
+            "ti": "ሳ"
+          },
+          "sound": "audio/level_2/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شَ",
+          "transliteration": {
+            "am": "ሻ",
+            "en": "Sha",
+            "ti": "ሻ"
+          },
+          "sound": "audio/level_2/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صَ",
+          "transliteration": {
+            "am": "ሳ",
+            "en": "Sa",
+            "ti": "ሳ"
+          },
+          "sound": "audio/level_2/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضَ",
+          "transliteration": {
+            "am": "ዳ",
+            "en": "Da",
+            "ti": "ዳ"
+          },
+          "sound": "audio/level_2/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طَ",
+          "transliteration": {
+            "am": "ጣ",
+            "en": "Tua",
+            "ti": "ጣ"
+          },
+          "sound": "audio/level_2/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظَ",
+          "transliteration": {
+            "am": "ዛ",
+            "en": "Zua",
+            "ti": "ዛ"
+          },
+          "sound": "audio/level_2/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عَ",
+          "transliteration": {
+            "am": "ዓ",
+            "en": "A'a",
+            "ti": "ዓ"
+          },
+          "sound": "audio/level_2/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غَ",
+          "transliteration": {
+            "am": "ጋ",
+            "en": "ga",
+            "ti": "ጋ"
+          },
+          "sound": "audio/level_2/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فَ",
+          "transliteration": {
+            "am": "ፋ",
+            "en": "fa",
+            "ti": "ፋ"
+          },
+          "sound": "audio/level_2/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قَ",
+          "transliteration": {
+            "am": "ቓ",
+            "en": "ka",
+            "ti": "ቓ"
+          },
+          "sound": "audio/level_2/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كَ",
+          "transliteration": {
+            "am": "ካ",
+            "en": "ka",
+            "ti": "ካ"
+          },
+          "sound": "audio/level_2/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لَ",
+          "transliteration": {
+            "am": "ላ",
+            "en": "la",
+            "ti": "ላ"
+          },
+          "sound": "audio/level_2/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مَ",
+          "transliteration": {
+            "am": "ማ",
+            "en": "ma",
+            "ti": "ማ"
+          },
+          "sound": "audio/level_2/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نَ",
+          "transliteration": {
+            "am": "ና",
+            "en": "na",
+            "ti": "ና"
+          },
+          "sound": "audio/level_2/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "وَ",
+          "transliteration": {
+            "am": "ዋ",
+            "en": "wa",
+            "ti": "ዋ"
+          },
+          "sound": "audio/level_2/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "هَـ",
+          "transliteration": {
+            "am": "ሃ",
+            "en": "ha",
+            "ti": "ሃ"
+          },
+          "sound": "audio/level_2/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يَ",
+          "transliteration": {
+            "am": "ያ",
+            "en": "ya",
+            "ti": "ያ"
+          },
+          "sound": "audio/level_2/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "am": "ከስራ",
+        "en": "Kasra",
+        "ti": "ከስራ"
+      },
+      "description": {
+        "am": "ከስራ ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Kasra marks",
+        "ti": "ፊደላት ምስ ከስራ ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "إِ",
+          "transliteration": {
+            "am": "ኢ",
+            "en": "I",
+            "ti": "ኢ"
+          },
+          "sound": "audio/level_3/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بِ",
+          "transliteration": {
+            "am": "ቢ",
+            "en": "Bi",
+            "ti": "ቢ"
+          },
+          "sound": "audio/level_3/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تِ",
+          "transliteration": {
+            "am": "ቲ",
+            "en": "Ti",
+            "ti": "ቲ"
+          },
+          "sound": "audio/level_3/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثِ",
+          "transliteration": {
+            "am": "ሲ",
+            "en": "Si",
+            "ti": "ሲ"
+          },
+          "sound": "audio/level_3/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جِ",
+          "transliteration": {
+            "am": "ጂ",
+            "en": "Ji",
+            "ti": "ጂ"
+          },
+          "sound": "audio/level_3/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حِ",
+          "transliteration": {
+            "am": "ሒ",
+            "en": "Hi",
+            "ti": "ሒ"
+          },
+          "sound": "audio/level_3/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خِ",
+          "transliteration": {
+            "am": "ኺ",
+            "en": "Khi",
+            "ti": "ኺ"
+          },
+          "sound": "audio/level_3/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دِ",
+          "transliteration": {
+            "am": "ዲ",
+            "en": "Di",
+            "ti": "ዲ"
+          },
+          "sound": "audio/level_3/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذِ",
+          "transliteration": {
+            "am": "ዚ",
+            "en": "Zhi",
+            "ti": "ዚ"
+          },
+          "sound": "audio/level_3/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رِ",
+          "transliteration": {
+            "am": "ሪ",
+            "en": "Ri",
+            "ti": "ሪ"
+          },
+          "sound": "audio/level_3/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زِ",
+          "transliteration": {
+            "am": "ዚ",
+            "en": "Zi",
+            "ti": "ዚ"
+          },
+          "sound": "audio/level_3/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سِ",
+          "transliteration": {
+            "am": "ሲ",
+            "en": "Si",
+            "ti": "ሲ"
+          },
+          "sound": "audio/level_3/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شِ",
+          "transliteration": {
+            "am": "ሺ",
+            "en": "Shi",
+            "ti": "ሺ"
+          },
+          "sound": "audio/level_3/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صِ",
+          "transliteration": {
+            "am": "ሲ",
+            "en": "Si",
+            "ti": "ሲ"
+          },
+          "sound": "audio/level_3/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضِ",
+          "transliteration": {
+            "am": "ዲ",
+            "en": "DI",
+            "ti": "ዲ"
+          },
+          "sound": "audio/level_3/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طِ",
+          "transliteration": {
+            "am": "ጢ",
+            "en": "Tii",
+            "ti": "ጢ"
+          },
+          "sound": "audio/level_3/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظِ",
+          "transliteration": {
+            "am": "ዚ",
+            "en": "Zii",
+            "ti": "ዚ"
+          },
+          "sound": "audio/level_3/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عِ",
+          "transliteration": {
+            "am": "ዒ",
+            "en": "ii",
+            "ti": "ዒ"
+          },
+          "sound": "audio/level_3/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غِ",
+          "transliteration": {
+            "am": "ጊ",
+            "en": "Ghi",
+            "ti": "ጊ"
+          },
+          "sound": "audio/level_3/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فِ",
+          "transliteration": {
+            "am": "ፊ",
+            "en": "Fi",
+            "ti": "ፊ"
+          },
+          "sound": "audio/level_3/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قِ",
+          "transliteration": {
+            "am": "ቒ",
+            "en": "Qi",
+            "ti": "ቒ"
+          },
+          "sound": "audio/level_3/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كِ",
+          "transliteration": {
+            "am": "ኪ",
+            "en": "ki",
+            "ti": "ኪ"
+          },
+          "sound": "audio/level_3/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لِ",
+          "transliteration": {
+            "am": "ሊ",
+            "en": "Li",
+            "ti": "ሊ"
+          },
+          "sound": "audio/level_3/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مِ",
+          "transliteration": {
+            "am": "ሚ",
+            "en": "Mi",
+            "ti": "ሚ"
+          },
+          "sound": "audio/level_3/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نِ",
+          "transliteration": {
+            "am": "ኒ",
+            "en": "Ni",
+            "ti": "ኒ"
+          },
+          "sound": "audio/level_3/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "وِ",
+          "transliteration": {
+            "am": "ዊ",
+            "en": "Wi",
+            "ti": "ዊ"
+          },
+          "sound": "audio/level_3/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "هِـ",
+          "transliteration": {
+            "am": "ሂ",
+            "en": "Hi",
+            "ti": "ሂ"
+          },
+          "sound": "audio/level_3/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يِ",
+          "transliteration": {
+            "am": "ዪ",
+            "en": "Yi",
+            "ti": "ዪ"
+          },
+          "sound": "audio/level_3/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "am": "ዳማ",
+        "en": "Damma",
+        "ti": "ዳማ"
+      },
+      "description": {
+        "am": "ዳማ ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Damma marks",
+        "ti": "ፊደላት ምስ ዳማ ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "أُ",
+          "transliteration": {
+            "am": "ኡ",
+            "en": "U",
+            "ti": "ኡ"
+          },
+          "sound": "audio/level_4/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بُ",
+          "transliteration": {
+            "am": "ቡ",
+            "en": "Bu",
+            "ti": "ቡ"
+          },
+          "sound": "audio/level_4/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تُ",
+          "transliteration": {
+            "am": "ቱ",
+            "en": "Tu",
+            "ti": "ቱ"
+          },
+          "sound": "audio/level_4/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثُ",
+          "transliteration": {
+            "am": "ሱ",
+            "en": "Thu",
+            "ti": "ሱ"
+          },
+          "sound": "audio/level_4/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جُ",
+          "transliteration": {
+            "am": "ጁ",
+            "en": "Ju",
+            "ti": "ጁ"
+          },
+          "sound": "audio/level_4/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حُ",
+          "transliteration": {
+            "am": "ሑ",
+            "en": "Hu",
+            "ti": "ሑ"
+          },
+          "sound": "audio/level_4/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خُ",
+          "transliteration": {
+            "am": "ኹ",
+            "en": "Khu",
+            "ti": "ኹ"
+          },
+          "sound": "audio/level_4/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دُ",
+          "transliteration": {
+            "am": "ዱ",
+            "en": "Du",
+            "ti": "ዱ"
+          },
+          "sound": "audio/level_4/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذُ",
+          "transliteration": {
+            "am": "ዙ",
+            "en": "Zhu",
+            "ti": "ዙ"
+          },
+          "sound": "audio/level_4/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رُ",
+          "transliteration": {
+            "am": "ሩ",
+            "en": "Ru",
+            "ti": "ሩ"
+          },
+          "sound": "audio/level_4/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زُ",
+          "transliteration": {
+            "am": "ዙ",
+            "en": "Zu",
+            "ti": "ዙ"
+          },
+          "sound": "audio/level_4/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سُ",
+          "transliteration": {
+            "am": "ሱ",
+            "en": "Su",
+            "ti": "ሱ"
+          },
+          "sound": "audio/level_4/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شُ",
+          "transliteration": {
+            "am": "ሹ",
+            "en": "Shu",
+            "ti": "ሹ"
+          },
+          "sound": "audio/level_4/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صُ",
+          "transliteration": {
+            "am": "ሱ",
+            "en": "Su",
+            "ti": "ሱ"
+          },
+          "sound": "audio/level_4/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضُ",
+          "transliteration": {
+            "am": "ዱ",
+            "en": "Du",
+            "ti": "ዱ"
+          },
+          "sound": "audio/level_4/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طُ",
+          "transliteration": {
+            "am": "ጡ",
+            "en": "Tu",
+            "ti": "ጡ"
+          },
+          "sound": "audio/level_4/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظُ",
+          "transliteration": {
+            "am": "ዙ",
+            "en": "Zu",
+            "ti": "ዙ"
+          },
+          "sound": "audio/level_4/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عُ",
+          "transliteration": {
+            "am": "ዑ",
+            "en": "u",
+            "ti": "ዑ"
+          },
+          "sound": "audio/level_4/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غُ",
+          "transliteration": {
+            "am": "ጉ",
+            "en": "Ghu",
+            "ti": "ጉ"
+          },
+          "sound": "audio/level_4/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فُ",
+          "transliteration": {
+            "am": "ፉ",
+            "en": "Fu",
+            "ti": "ፉ"
+          },
+          "sound": "audio/level_4/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قُ",
+          "transliteration": {
+            "am": "ቁ",
+            "en": "Qu",
+            "ti": "ቁ"
+          },
+          "sound": "audio/level_4/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كُ",
+          "transliteration": {
+            "am": "ኩ",
+            "en": "Ku",
+            "ti": "ኩ"
+          },
+          "sound": "audio/level_4/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لُ",
+          "transliteration": {
+            "am": "ሉ",
+            "en": "Lu",
+            "ti": "ሉ"
+          },
+          "sound": "audio/level_4/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مُ",
+          "transliteration": {
+            "am": "ሙ",
+            "en": "Mu",
+            "ti": "ሙ"
+          },
+          "sound": "audio/level_4/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نُ",
+          "transliteration": {
+            "am": "ኑ",
+            "en": "Nu",
+            "ti": "ኑ"
+          },
+          "sound": "audio/level_4/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "وُ",
+          "transliteration": {
+            "am": "ዉ",
+            "en": "Wu",
+            "ti": "ዉ"
+          },
+          "sound": "audio/level_4/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "هُ",
+          "transliteration": {
+            "am": "ሁ",
+            "en": "Hu",
+            "ti": "ሁ"
+          },
+          "sound": "audio/level_4/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يُ",
+          "transliteration": {
+            "am": "ዩ",
+            "en": "Yu",
+            "ti": "ዩ"
+          },
+          "sound": "audio/level_4/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": {
+        "am": "ሱኩን",
+        "en": "Sukun",
+        "ti": "ሱኩን"
+      },
+      "description": {
+        "am": "ሱኩን ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Sukun marks",
+        "ti": "ፊደላት ምስ ሱኩን ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "اْ",
+          "transliteration": {
+            "am": "እ",
+            "en": "'",
+            "ti": "እ"
+          },
+          "sound": "audio/level_5/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بْ",
+          "transliteration": {
+            "am": "ብ",
+            "en": "b",
+            "ti": "ብ"
+          },
+          "sound": "audio/level_5/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تْ",
+          "transliteration": {
+            "am": "ት",
+            "en": "t",
+            "ti": "ት"
+          },
+          "sound": "audio/level_5/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثْ",
+          "transliteration": {
+            "am": "ስ",
+            "en": "th",
+            "ti": "ስ"
+          },
+          "sound": "audio/level_5/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جْ",
+          "transliteration": {
+            "am": "ጅ",
+            "en": "j",
+            "ti": "ጅ"
+          },
+          "sound": "audio/level_5/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حْ",
+          "transliteration": {
+            "am": "ሕ",
+            "en": "h'",
+            "ti": "ሕ"
+          },
+          "sound": "audio/level_5/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خْ",
+          "transliteration": {
+            "am": "ኽ",
+            "en": "kh",
+            "ti": "ኽ"
+          },
+          "sound": "audio/level_5/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دْ",
+          "transliteration": {
+            "am": "ድ",
+            "en": "d",
+            "ti": "ድ"
+          },
+          "sound": "audio/level_5/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذْ",
+          "transliteration": {
+            "am": "ዝ",
+            "en": "dh",
+            "ti": "ዝ"
+          },
+          "sound": "audio/level_5/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رْ",
+          "transliteration": {
+            "am": "ር",
+            "en": "r",
+            "ti": "ር"
+          },
+          "sound": "audio/level_5/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زْ",
+          "transliteration": {
+            "am": "ዝ",
+            "en": "z",
+            "ti": "ዝ"
+          },
+          "sound": "audio/level_5/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سْ",
+          "transliteration": {
+            "am": "ስ",
+            "en": "s",
+            "ti": "ስ"
+          },
+          "sound": "audio/level_5/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شْ",
+          "transliteration": {
+            "am": "ሽ",
+            "en": "sh",
+            "ti": "ሽ"
+          },
+          "sound": "audio/level_5/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صْ",
+          "transliteration": {
+            "am": "ጽ",
+            "en": "s",
+            "ti": "ጽ"
+          },
+          "sound": "audio/level_5/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضْ",
+          "transliteration": {
+            "am": "ድ",
+            "en": "d",
+            "ti": "ድ"
+          },
+          "sound": "audio/level_5/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طْ",
+          "transliteration": {
+            "am": "ጥ",
+            "en": "t",
+            "ti": "ጥ"
+          },
+          "sound": "audio/level_5/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظْ",
+          "transliteration": {
+            "am": "ዝ",
+            "en": "z",
+            "ti": "ዝ"
+          },
+          "sound": "audio/level_5/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عْ",
+          "transliteration": {
+            "am": "ዕ",
+            "en": "'",
+            "ti": "ዕ"
+          },
+          "sound": "audio/level_5/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غْ",
+          "transliteration": {
+            "am": "ግ",
+            "en": "gh",
+            "ti": "ግ"
+          },
+          "sound": "audio/level_5/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فْ",
+          "transliteration": {
+            "am": "ፍ",
+            "en": "f",
+            "ti": "ፍ"
+          },
+          "sound": "audio/level_5/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قْ",
+          "transliteration": {
+            "am": "ቅ",
+            "en": "q",
+            "ti": "ቅ"
+          },
+          "sound": "audio/level_5/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كْ",
+          "transliteration": {
+            "am": "ክ",
+            "en": "k",
+            "ti": "ክ"
+          },
+          "sound": "audio/level_5/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لْ",
+          "transliteration": {
+            "am": "ል",
+            "en": "l",
+            "ti": "ል"
+          },
+          "sound": "audio/level_5/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مْ",
+          "transliteration": {
+            "am": "ም",
+            "en": "m",
+            "ti": "ም"
+          },
+          "sound": "audio/level_5/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نْ",
+          "transliteration": {
+            "am": "ን",
+            "en": "n",
+            "ti": "ን"
+          },
+          "sound": "audio/level_5/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "هْ",
+          "transliteration": {
+            "am": "ህ",
+            "en": "h",
+            "ti": "ህ"
+          },
+          "sound": "audio/level_5/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "وْ",
+          "transliteration": {
+            "am": "ው",
+            "en": "w",
+            "ti": "ው"
+          },
+          "sound": "audio/level_5/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يْ",
+          "transliteration": {
+            "am": "ይ",
+            "en": "y",
+            "ti": "ይ"
+          },
+          "sound": "audio/level_5/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": {
+        "am": "ፈትሃ ተንዊን",
+        "en": "Fatha Tanween",
+        "ti": "ፈትሓ ተንዊን"
+      },
+      "description": {
+        "am": "ፈትሃ ተንዊን ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Fatha Tanween marks",
+        "ti": "ፊደላት ምስ ፈትሓ ተንዊን ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "أً",
+          "transliteration": {
+            "am": "ኣን",
+            "en": "An",
+            "ti": "ኣን"
+          },
+          "sound": "audio/level_6/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بً",
+          "transliteration": {
+            "am": "ባን",
+            "en": "Ban",
+            "ti": "ባን"
+          },
+          "sound": "audio/level_6/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تً",
+          "transliteration": {
+            "am": "ታን",
+            "en": "Tan",
+            "ti": "ታን"
+          },
+          "sound": "audio/level_6/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثً",
+          "transliteration": {
+            "am": "ሳን",
+            "en": "Than",
+            "ti": "ሳን"
+          },
+          "sound": "audio/level_6/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جً",
+          "transliteration": {
+            "am": "ጃን",
+            "en": "Jan",
+            "ti": "ጃን"
+          },
+          "sound": "audio/level_6/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حً",
+          "transliteration": {
+            "am": "ሓን",
+            "en": "H'an",
+            "ti": "ሓን"
+          },
+          "sound": "audio/level_6/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خً",
+          "transliteration": {
+            "am": "ኻን",
+            "en": "Khan",
+            "ti": "ኻን"
+          },
+          "sound": "audio/level_6/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دً",
+          "transliteration": {
+            "am": "ዳን",
+            "en": "Dan",
+            "ti": "ዳን"
+          },
+          "sound": "audio/level_6/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذً",
+          "transliteration": {
+            "am": "ዛን",
+            "en": "Zhan",
+            "ti": "ዛን"
+          },
+          "sound": "audio/level_6/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رً",
+          "transliteration": {
+            "am": "ራን",
+            "en": "Ran",
+            "ti": "ራን"
+          },
+          "sound": "audio/level_6/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زً",
+          "transliteration": {
+            "am": "ዛን",
+            "en": "Zan",
+            "ti": "ዛን"
+          },
+          "sound": "audio/level_6/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سً",
+          "transliteration": {
+            "am": "ሳን",
+            "en": "San",
+            "ti": "ሳን"
+          },
+          "sound": "audio/level_6/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شً",
+          "transliteration": {
+            "am": "ሻን",
+            "en": "Shan",
+            "ti": "ሻን"
+          },
+          "sound": "audio/level_6/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صً",
+          "transliteration": {
+            "am": "ሳን",
+            "en": "San",
+            "ti": "ሳን"
+          },
+          "sound": "audio/level_6/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضً",
+          "transliteration": {
+            "am": "ዳን",
+            "en": "Dan",
+            "ti": "ዳን"
+          },
+          "sound": "audio/level_6/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طً",
+          "transliteration": {
+            "am": "ጣን",
+            "en": "Tuan",
+            "ti": "ጣን"
+          },
+          "sound": "audio/level_6/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظً",
+          "transliteration": {
+            "am": "Zuan",
+            "en": "Zuan",
+            "ti": "Zuan"
+          },
+          "sound": "audio/level_6/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عً",
+          "transliteration": {
+            "am": "ዓን",
+            "en": "A'in",
+            "ti": "ዓን"
+          },
+          "sound": "audio/level_6/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غً",
+          "transliteration": {
+            "am": "ጋን",
+            "en": "Ghan",
+            "ti": "ጋን"
+          },
+          "sound": "audio/level_6/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فً",
+          "transliteration": {
+            "am": "ፋን",
+            "en": "Fan",
+            "ti": "ፋን"
+          },
+          "sound": "audio/level_6/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قً",
+          "transliteration": {
+            "am": "ቓን",
+            "en": "Qan",
+            "ti": "ቓን"
+          },
+          "sound": "audio/level_6/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كً",
+          "transliteration": {
+            "am": "ካን",
+            "en": "Kan",
+            "ti": "ካን"
+          },
+          "sound": "audio/level_6/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لً",
+          "transliteration": {
+            "am": "ላን",
+            "en": "Lan",
+            "ti": "ላን"
+          },
+          "sound": "audio/level_6/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مً",
+          "transliteration": {
+            "am": "ማም",
+            "en": "Man",
+            "ti": "ማም"
+          },
+          "sound": "audio/level_6/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نً",
+          "transliteration": {
+            "am": "ናን",
+            "en": "Nan",
+            "ti": "ናን"
+          },
+          "sound": "audio/level_6/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "وً",
+          "transliteration": {
+            "am": "ዋን",
+            "en": "Wan",
+            "ti": "ዋን"
+          },
+          "sound": "audio/level_6/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "هً",
+          "transliteration": {
+            "am": "ሃን",
+            "en": "Han",
+            "ti": "ሃን"
+          },
+          "sound": "audio/level_6/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يً",
+          "transliteration": {
+            "am": "ያን",
+            "en": "Yan",
+            "ti": "ያን"
+          },
+          "sound": "audio/level_6/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": {
+        "am": "ከስራ ተንዊን",
+        "en": "Kasra Tanween",
+        "ti": "ከስራ ተንዊን"
+      },
+      "description": {
+        "am": "ከስራ ተንዊን ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Kasra Tanween marks",
+        "ti": "ፊደላት ምስ ከስራ ተንዊን ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "إٍ",
+          "transliteration": {
+            "am": "ኢን",
+            "en": "In",
+            "ti": "ኢን"
+          },
+          "sound": "audio/level_7/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بٍ",
+          "transliteration": {
+            "am": "ቢን",
+            "en": "Bin",
+            "ti": "ቢን"
+          },
+          "sound": "audio/level_7/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تٍ",
+          "transliteration": {
+            "am": "ቲን",
+            "en": "Tin",
+            "ti": "ቲን"
+          },
+          "sound": "audio/level_7/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثٍ",
+          "transliteration": {
+            "am": "ሲን",
+            "en": "Thin",
+            "ti": "ሲን"
+          },
+          "sound": "audio/level_7/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جٍ",
+          "transliteration": {
+            "am": "ጂን",
+            "en": "Jin",
+            "ti": "ጂን"
+          },
+          "sound": "audio/level_7/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حٍ",
+          "transliteration": {
+            "am": "ሒን",
+            "en": "H'in",
+            "ti": "ሒን"
+          },
+          "sound": "audio/level_7/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خٍ",
+          "transliteration": {
+            "am": "ኺን",
+            "en": "Khin",
+            "ti": "ኺን"
+          },
+          "sound": "audio/level_7/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دٍ",
+          "transliteration": {
+            "am": "ዲን",
+            "en": "Din",
+            "ti": "ዲን"
+          },
+          "sound": "audio/level_7/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذٍ",
+          "transliteration": {
+            "am": "ዚን",
+            "en": "Zhin",
+            "ti": "ዚን"
+          },
+          "sound": "audio/level_7/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رٍ",
+          "transliteration": {
+            "am": "ሪን",
+            "en": "Rin",
+            "ti": "ሪን"
+          },
+          "sound": "audio/level_7/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زٍ",
+          "transliteration": {
+            "am": "ዚን",
+            "en": "Zin",
+            "ti": "ዚን"
+          },
+          "sound": "audio/level_7/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سٍ",
+          "transliteration": {
+            "am": "ሲን",
+            "en": "Sin",
+            "ti": "ሲን"
+          },
+          "sound": "audio/level_7/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شٍ",
+          "transliteration": {
+            "am": "ሺን",
+            "en": "shin",
+            "ti": "ሺን"
+          },
+          "sound": "audio/level_7/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صٍ",
+          "transliteration": {
+            "am": "ሲን",
+            "en": "Sin",
+            "ti": "ሲን"
+          },
+          "sound": "audio/level_7/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضٍ",
+          "transliteration": {
+            "am": "ዲን",
+            "en": "Din",
+            "ti": "ዲን"
+          },
+          "sound": "audio/level_7/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طٍ",
+          "transliteration": {
+            "am": "ጢን",
+            "en": "Tiin",
+            "ti": "ጢን"
+          },
+          "sound": "audio/level_7/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظٍ",
+          "transliteration": {
+            "am": "ዚን",
+            "en": "Ziin",
+            "ti": "ዚን"
+          },
+          "sound": "audio/level_7/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عٍ",
+          "transliteration": {
+            "am": "A'in",
+            "en": "A'in",
+            "ti": "A'in"
+          },
+          "sound": "audio/level_7/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غٍ",
+          "transliteration": {
+            "am": "Ghin",
+            "en": "Ghin",
+            "ti": "Ghin"
+          },
+          "sound": "audio/level_7/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فٍ",
+          "transliteration": {
+            "am": "ፊን",
+            "en": "Fin",
+            "ti": "ፊን"
+          },
+          "sound": "audio/level_7/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قٍ",
+          "transliteration": {
+            "am": "ቒን",
+            "en": "Qin",
+            "ti": "ቒን"
+          },
+          "sound": "audio/level_7/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كٍ",
+          "transliteration": {
+            "am": "ኪን",
+            "en": "Kin",
+            "ti": "ኪን"
+          },
+          "sound": "audio/level_7/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لٍ",
+          "transliteration": {
+            "am": "ሊን",
+            "en": "Lin",
+            "ti": "ሊን"
+          },
+          "sound": "audio/level_7/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مٍ",
+          "transliteration": {
+            "am": "ሚን",
+            "en": "Min",
+            "ti": "ሚን"
+          },
+          "sound": "audio/level_7/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نٍ",
+          "transliteration": {
+            "am": "ኒን",
+            "en": "Nin",
+            "ti": "ኒን"
+          },
+          "sound": "audio/level_7/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "وٍ",
+          "transliteration": {
+            "am": "ዊን",
+            "en": "Win",
+            "ti": "ዊን"
+          },
+          "sound": "audio/level_7/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "هٍـ",
+          "transliteration": {
+            "am": "ሂን",
+            "en": "Hin",
+            "ti": "ሂን"
+          },
+          "sound": "audio/level_7/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يٍ",
+          "transliteration": {
+            "am": "ዪን",
+            "en": "Yin",
+            "ti": "ዪን"
+          },
+          "sound": "audio/level_7/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": {
+        "am": "ዳማ ተንዊን",
+        "en": "Damma Tanween",
+        "ti": "ዳማ ተንዊን"
+      },
+      "description": {
+        "am": "ዳማ ተንዊን ምልክት ያላቸው ፊደላቶች",
+        "en": "Letters with Damma Tanween marks",
+        "ti": "ፊደላት ምስ ዳማ ተንዊን ምልክታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "أٌ",
+          "transliteration": {
+            "am": "ኡን",
+            "en": "Un",
+            "ti": "ኡን"
+          },
+          "sound": "audio/level_8/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "بٌ",
+          "transliteration": {
+            "am": "ቡን",
+            "en": "Bun",
+            "ti": "ቡን"
+          },
+          "sound": "audio/level_8/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "تٌ",
+          "transliteration": {
+            "am": "ቱን",
+            "en": "Tun",
+            "ti": "ቱን"
+          },
+          "sound": "audio/level_8/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ثٌ",
+          "transliteration": {
+            "am": "ሱን",
+            "en": "Thun",
+            "ti": "ሱን"
+          },
+          "sound": "audio/level_8/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "جٌ",
+          "transliteration": {
+            "am": "ጁን",
+            "en": "Jun",
+            "ti": "ጁን"
+          },
+          "sound": "audio/level_8/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "حٌ",
+          "transliteration": {
+            "am": "ሑን",
+            "en": "H'un",
+            "ti": "ሑን"
+          },
+          "sound": "audio/level_8/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "خٌ",
+          "transliteration": {
+            "am": "ኹን",
+            "en": "Khun",
+            "ti": "ኹን"
+          },
+          "sound": "audio/level_8/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "دٌ",
+          "transliteration": {
+            "am": "ዱን",
+            "en": "Dun",
+            "ti": "ዱን"
+          },
+          "sound": "audio/level_8/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "ذٌ",
+          "transliteration": {
+            "am": "ዙን",
+            "en": "Zhaal",
+            "ti": "ዙን"
+          },
+          "sound": "audio/level_8/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "رٌ",
+          "transliteration": {
+            "am": "ሩን",
+            "en": "Run",
+            "ti": "ሩን"
+          },
+          "sound": "audio/level_8/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "زٌ",
+          "transliteration": {
+            "am": "ዙን",
+            "en": "Zun",
+            "ti": "ዙን"
+          },
+          "sound": "audio/level_8/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "سٌ",
+          "transliteration": {
+            "am": "ሱን",
+            "en": "Sun",
+            "ti": "ሱን"
+          },
+          "sound": "audio/level_8/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "شٌ",
+          "transliteration": {
+            "am": "ሹን",
+            "en": "Shun",
+            "ti": "ሹን"
+          },
+          "sound": "audio/level_8/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "صٌ",
+          "transliteration": {
+            "am": "ሱን",
+            "en": "Sun",
+            "ti": "ሱን"
+          },
+          "sound": "audio/level_8/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "ضٌ",
+          "transliteration": {
+            "am": "ዱን",
+            "en": "Dun",
+            "ti": "ዱን"
+          },
+          "sound": "audio/level_8/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "طٌ",
+          "transliteration": {
+            "am": "ጡን",
+            "en": "Tuun",
+            "ti": "ጡን"
+          },
+          "sound": "audio/level_8/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "ظٌ",
+          "transliteration": {
+            "am": "ዙን",
+            "en": "Zuun",
+            "ti": "ዙን"
+          },
+          "sound": "audio/level_8/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "عٌ",
+          "transliteration": {
+            "am": "ዑን",
+            "en": "A'iun",
+            "ti": "ዑን"
+          },
+          "sound": "audio/level_8/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "غٌ",
+          "transliteration": {
+            "am": "ጉን",
+            "en": "Ghun",
+            "ti": "ጉን"
+          },
+          "sound": "audio/level_8/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "فٌ",
+          "transliteration": {
+            "am": "ፉን",
+            "en": "Fun",
+            "ti": "ፉን"
+          },
+          "sound": "audio/level_8/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "قٌ",
+          "transliteration": {
+            "am": "ቑን",
+            "en": "Qun",
+            "ti": "ቑን"
+          },
+          "sound": "audio/level_8/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "كٌ",
+          "transliteration": {
+            "am": "ኩን",
+            "en": "Kun",
+            "ti": "ኩን"
+          },
+          "sound": "audio/level_8/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "لٌ",
+          "transliteration": {
+            "am": "ሉን",
+            "en": "Lun",
+            "ti": "ሉን"
+          },
+          "sound": "audio/level_8/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "مٌ",
+          "transliteration": {
+            "am": "ሙን",
+            "en": "Mun",
+            "ti": "ሙን"
+          },
+          "sound": "audio/level_8/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "نٌ",
+          "transliteration": {
+            "am": "ኑን",
+            "en": "Nun",
+            "ti": "ኑን"
+          },
+          "sound": "audio/level_8/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "وٌ",
+          "transliteration": {
+            "am": "ዉን",
+            "en": "Wun",
+            "ti": "ዉን"
+          },
+          "sound": "audio/level_8/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "هٌ",
+          "transliteration": {
+            "am": "ሁን",
+            "en": "Hun",
+            "ti": "ሁን"
+          },
+          "sound": "audio/level_8/27.mp3"
+        },
+        {
+          "id": 28,
+          "name": "يٌ",
+          "transliteration": {
+            "am": "ዩን",
+            "en": "Yun",
+            "ti": "ዩን"
+          },
+          "sound": "audio/level_8/28.mp3"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": {
+        "am": "ሁለት ፊደል ቅንጅቶች",
+        "en": "Two Letter Combinations",
+        "ti": "ክልተ ፊደላት ምሕዋስ"
+      },
+      "description": {
+        "am": "ሁለት ፊደል ያላቸው የአረብኛ ቃላት",
+        "en": "Arabic words with two letters",
+        "ti": "ክልተ ፊደላት ዘለወን ዓረብኛ ቃላት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "مَا",
+          "transliteration": {
+            "am": "ማ",
+            "en": "Ma",
+            "ti": "ማ"
+          },
+          "sound": "audio/level_9/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "لَا",
+          "transliteration": {
+            "am": "ላ",
+            "en": "La",
+            "ti": "ላ"
+          },
+          "sound": "audio/level_9/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "هُوَ",
+          "transliteration": {
+            "am": "ሁወ",
+            "en": "Huwa",
+            "ti": "ሁወ"
+          },
+          "sound": "audio/level_9/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "فِي",
+          "transliteration": {
+            "am": "ፊ",
+            "en": "Fi",
+            "ti": "ፊ"
+          },
+          "sound": "audio/level_9/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "مِنْ",
+          "transliteration": {
+            "am": "ሚን",
+            "en": "Min",
+            "ti": "ሚን"
+          },
+          "sound": "audio/level_9/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "قَدْ",
+          "transliteration": {
+            "am": "ቀድ",
+            "en": "Qad",
+            "ti": "ቀድ"
+          },
+          "sound": "audio/level_9/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "أَنْ",
+          "transliteration": {
+            "am": "አን",
+            "en": "An",
+            "ti": "አን"
+          },
+          "sound": "audio/level_9/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "عَنْ",
+          "transliteration": {
+            "am": "ዐን",
+            "en": "An",
+            "ti": "ዐን"
+          },
+          "sound": "audio/level_9/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "يَا",
+          "transliteration": {
+            "am": "ያ",
+            "en": "Ya",
+            "ti": "ያ"
+          },
+          "sound": "audio/level_9/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "لَمْ",
+          "transliteration": {
+            "am": "ለም",
+            "en": "Lam",
+            "ti": "ለም"
+          },
+          "sound": "audio/level_9/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "بِي",
+          "transliteration": {
+            "am": "ቢ",
+            "en": "Bi",
+            "ti": "ቢ"
+          },
+          "sound": "audio/level_9/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "هِيَ",
+          "transliteration": {
+            "am": "ሂየ",
+            "en": "Hiya",
+            "ti": "ሂየ"
+          },
+          "sound": "audio/level_9/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "لَنْ",
+          "transliteration": {
+            "am": "ለን",
+            "en": "Lan",
+            "ti": "ለን"
+          },
+          "sound": "audio/level_9/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "إِنْ",
+          "transliteration": {
+            "am": "እን",
+            "en": "In",
+            "ti": "እን"
+          },
+          "sound": "audio/level_9/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "أَمْ",
+          "transliteration": {
+            "am": "አም",
+            "en": "Am",
+            "ti": "አም"
+          },
+          "sound": "audio/level_9/15.mp3"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": {
+        "am": "ሶስት ፊደል ቅንጅቶች",
+        "en": "Three Letter Combinations",
+        "ti": "ሰለስተ ፊደላት ምሕዋስ"
+      },
+      "description": {
+        "am": "ሶስት ፊደል ያላቸው የአረብኛ ቃላት",
+        "en": "Arabic words with three letters",
+        "ti": "ሰለስተ ፊደላት ዘለወን ዓረብኛ ቃላት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "كَتَبَ",
+          "transliteration": {
+            "am": "ከተበ",
+            "en": "Kataba",
+            "ti": "ከተበ"
+          },
+          "sound": "audio/level_10/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "خَرَجَ",
+          "transliteration": {
+            "am": "ኸረጀ",
+            "en": "Kharaja",
+            "ti": "ኸረጀ"
+          },
+          "sound": "audio/level_10/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "جَلَسَ",
+          "transliteration": {
+            "am": "ጀለሰ",
+            "en": "Jalasa",
+            "ti": "ጀለሰ"
+          },
+          "sound": "audio/level_10/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "ذَهَبَ",
+          "transliteration": {
+            "am": "ዘሀበ",
+            "en": "Dhahaba",
+            "ti": "ዘሀበ"
+          },
+          "sound": "audio/level_10/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "سَمِعَ",
+          "transliteration": {
+            "am": "ሰሚዐ",
+            "en": "Samia",
+            "ti": "ሰሚዐ"
+          },
+          "sound": "audio/level_10/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "عَلِمَ",
+          "transliteration": {
+            "am": "ዐሊመ",
+            "en": "Alima",
+            "ti": "ዐሊመ"
+          },
+          "sound": "audio/level_10/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "فَهِمَ",
+          "transliteration": {
+            "am": "ፈሂመ",
+            "en": "Fahima",
+            "ti": "ፈሂመ"
+          },
+          "sound": "audio/level_10/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "نَظَرَ",
+          "transliteration": {
+            "am": "ነዘረ",
+            "en": "Nadhara",
+            "ti": "ነዘረ"
+          },
+          "sound": "audio/level_10/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "شَرِبَ",
+          "transliteration": {
+            "am": "ሸሪበ",
+            "en": "Shariba",
+            "ti": "ሸሪበ"
+          },
+          "sound": "audio/level_10/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "أَكَلَ",
+          "transliteration": {
+            "am": "አከለ",
+            "en": "Akala",
+            "ti": "አከለ"
+          },
+          "sound": "audio/level_10/10.mp3"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": {
+        "am": "አራት ፊደል ቅንጅቶች",
+        "en": "Four Letter Combinations",
+        "ti": "አርባዕተ ፊደላት ምሕዋስ"
+      },
+      "description": {
+        "am": "አራት ፊደል ያላቸው የአረብኛ ቃላት",
+        "en": "Arabic words with four letters",
+        "ti": "አርባዕተ ፊደላት ዘለወን ዓረብኛ ቃላት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "كَتَبَتْ",
+          "transliteration": {
+            "am": "ከተበት",
+            "en": "Katabat",
+            "ti": "ከተበት"
+          },
+          "sound": "audio/level_11/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "دَخَلَتْ",
+          "transliteration": {
+            "am": "ደኸለት",
+            "en": "Dakhalat",
+            "ti": "ደኸለት"
+          },
+          "sound": "audio/level_11/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "سَمِعْتُ",
+          "transliteration": {
+            "am": "ሰሚዕቱ",
+            "en": "Sami'tu",
+            "ti": "ሰሚዕቱ"
+          },
+          "sound": "audio/level_11/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "فَهِمْتُ",
+          "transliteration": {
+            "am": "ፈሂምቱ",
+            "en": "Fahimtu",
+            "ti": "ፈሂምቱ"
+          },
+          "sound": "audio/level_11/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "يَكْتُبُ",
+          "transliteration": {
+            "am": "የክቱቡ",
+            "en": "Yaktubu",
+            "ti": "የክቱቡ"
+          },
+          "sound": "audio/level_11/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "يَقْرَأُ",
+          "transliteration": {
+            "am": "የቅረኡ",
+            "en": "Yaqra'u",
+            "ti": "የቅረኡ"
+          },
+          "sound": "audio/level_11/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "مَكْتَبٌ",
+          "transliteration": {
+            "am": "መክተቡን",
+            "en": "Maktabun",
+            "ti": "መክተቡን"
+          },
+          "sound": "audio/level_11/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "مَسْجِدٌ",
+          "transliteration": {
+            "am": "መስጂዱን",
+            "en": "Masjidun",
+            "ti": "መስጂዱን"
+          },
+          "sound": "audio/level_11/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "كِتَابٌ",
+          "transliteration": {
+            "am": "ኪታቡን",
+            "en": "Kitabun",
+            "ti": "ኪታቡን"
+          },
+          "sound": "audio/level_11/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "قَلَمٌ",
+          "transliteration": {
+            "am": "ቀለሙን",
+            "en": "Qalamun",
+            "ti": "ቀለሙን"
+          },
+          "sound": "audio/level_11/10.mp3"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": {
+        "am": "አምስት ፊደል ቅንጅቶች",
+        "en": "Five Letter Combinations",
+        "ti": "ሓሙሽተ ፊደላት ምሕዋስ"
+      },
+      "description": {
+        "am": "አምስት ፊደል ያላቸው የአረብኛ ቃላት",
+        "en": "Arabic words with five letters",
+        "ti": "ሓሙሽተ ፊደላት ዘለወን ዓረብኛ ቃላት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "مَدْرَسَةٌ",
+          "transliteration": {
+            "am": "መድረሰቱን",
+            "en": "Madrasatun",
+            "ti": "መድረሰቱን"
+          },
+          "sound": "audio/level_12/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "يَدْرُسُونَ",
+          "transliteration": {
+            "am": "የድሩሱነ",
+            "en": "Yadrusuna",
+            "ti": "የድሩሱነ"
+          },
+          "sound": "audio/level_12/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "مُسْلِمُونَ",
+          "transliteration": {
+            "am": "ሙስሊሙነ",
+            "en": "Muslimuna",
+            "ti": "ሙስሊሙነ"
+          },
+          "sound": "audio/level_12/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "يَكْتُبُونَ",
+          "transliteration": {
+            "am": "የክቱቡነ",
+            "en": "Yaktubuna",
+            "ti": "የክቱቡነ"
+          },
+          "sound": "audio/level_12/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "مُؤْمِنُونَ",
+          "transliteration": {
+            "am": "ሙእሚኑነ",
+            "en": "Mu'minuna",
+            "ti": "ሙእሚኑነ"
+          },
+          "sound": "audio/level_12/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "صَالِحُونَ",
+          "transliteration": {
+            "am": "ሳሊሑነ",
+            "en": "Salihuna",
+            "ti": "ሳሊሑነ"
+          },
+          "sound": "audio/level_12/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "مَكْتَبَةٌ",
+          "transliteration": {
+            "am": "መክተበቱን",
+            "en": "Maktabatun",
+            "ti": "መክተበቱን"
+          },
+          "sound": "audio/level_12/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "يَعْمَلُونَ",
+          "transliteration": {
+            "am": "የዕመሉነ",
+            "en": "Ya'maluna",
+            "ti": "የዕመሉነ"
+          },
+          "sound": "audio/level_12/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "يَفْهَمُونَ",
+          "transliteration": {
+            "am": "የፍሀሙነ",
+            "en": "Yafhamuna",
+            "ti": "የፍሀሙነ"
+          },
+          "sound": "audio/level_12/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "يَسْمَعُونَ",
+          "transliteration": {
+            "am": "የስመዑነ",
+            "en": "Yasma'una",
+            "ti": "የስመዑነ"
+          },
+          "sound": "audio/level_12/10.mp3"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": {
+        "am": "ቁጥሮች",
+        "en": "Numbers",
+        "ti": "ቑጽርታት"
+      },
+      "description": {
+        "am": "የዓረብኛ ቁጥሮች",
+        "en": "Arabic Numbers",
+        "ti": "ዓረብኛ ቑጽርታት"
+      },
+      "characters": [
+        {
+          "id": 1,
+          "name": "٠",
+          "transliteration": {
+            "ar": "صفر",
+            "am": "صفر",
+            "en": "Sifr",
+            "ti": "صفر"
+          },
+          "translation": {
+            "am": "ዜሮ",
+            "en": "Zero",
+            "ti": "ባዶ"
+          },
+          "sound": "audio/level_13/1.mp3"
+        },
+        {
+          "id": 2,
+          "name": "١",
+          "transliteration": {
+            "ar": "واحد",
+            "am": "ዋሂድ",
+            "en": "Wahid",
+            "ti": "ዋሒድ"
+          },
+          "translation": {
+            "am": "አንድ",
+            "en": "One",
+            "ti": "ሓደ"
+          },
+          "sound": "audio/level_13/2.mp3"
+        },
+        {
+          "id": 3,
+          "name": "٢",
+          "transliteration": {
+            "ar": "اثنان",
+            "am": "እስናይን",
+            "en": "Ithnain",
+            "ti": "እስናይን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Two",
+            "ti": "ኽልተ"
+          },
+          "sound": "audio/level_13/3.mp3"
+        },
+        {
+          "id": 4,
+          "name": "٣",
+          "transliteration": {
+            "ar": "ثلاثة",
+            "am": "ሰላሳ",
+            "en": "Thalatha",
+            "ti": "ሰላሳ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Three",
+            "ti": "ሰለስተ"
+          },
+          "sound": "audio/level_13/4.mp3"
+        },
+        {
+          "id": 5,
+          "name": "٤",
+          "transliteration": {
+            "ar": "أربعة",
+            "am": "አርባዓ",
+            "en": "Arba'a",
+            "ti": "አርባዓ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Four",
+            "ti": ""
+          },
+          "sound": "audio/level_13/5.mp3"
+        },
+        {
+          "id": 6,
+          "name": "٥",
+          "transliteration": {
+            "ar": "خمسة",
+            "am": "ኸምሳ",
+            "en": "Khamsa",
+            "ti": "ኸምሳ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Five",
+            "ti": ""
+          },
+          "sound": "audio/level_13/6.mp3"
+        },
+        {
+          "id": 7,
+          "name": "٦",
+          "transliteration": {
+            "ar": "ستة",
+            "am": "ሲታ",
+            "en": "Sitta",
+            "ti": "ሲታ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Six",
+            "ti": ""
+          },
+          "sound": "audio/level_13/7.mp3"
+        },
+        {
+          "id": 8,
+          "name": "٧",
+          "transliteration": {
+            "ar": "سبعة",
+            "am": "ሰብዓ",
+            "en": "Sab'a",
+            "ti": "ሰብዓ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Seven",
+            "ti": ""
+          },
+          "sound": "audio/level_13/8.mp3"
+        },
+        {
+          "id": 9,
+          "name": "٨",
+          "transliteration": {
+            "ar": "ثمانية",
+            "am": "ሰማንያ",
+            "en": "Thamaniya",
+            "ti": "ሰማንያ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Eight",
+            "ti": ""
+          },
+          "sound": "audio/level_13/9.mp3"
+        },
+        {
+          "id": 10,
+          "name": "٩",
+          "transliteration": {
+            "ar": "تسعة",
+            "am": "ቲስዓ",
+            "en": "Tis'a",
+            "ti": "ቲስዓ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Nine",
+            "ti": ""
+          },
+          "sound": "audio/level_13/10.mp3"
+        },
+        {
+          "id": 11,
+          "name": "١٠",
+          "transliteration": {
+            "ar": "عشرة",
+            "am": "ዓሽራ",
+            "en": "Ashara",
+            "ti": "ዓሽራ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Ten",
+            "ti": ""
+          },
+          "sound": "audio/level_13/11.mp3"
+        },
+        {
+          "id": 12,
+          "name": "١١",
+          "transliteration": {
+            "ar": "أحد عشر",
+            "am": "አሓዳ ዓሸር",
+            "en": "Ahada Ashar",
+            "ti": "አሓዳ ዓሸር"
+          },
+          "translation": {
+            "am": "",
+            "en": "Eleven",
+            "ti": ""
+          },
+          "sound": "audio/level_13/12.mp3"
+        },
+        {
+          "id": 13,
+          "name": "١٢",
+          "transliteration": {
+            "ar": "اثنا عشر",
+            "am": "እስና ዓሸር",
+            "en": "Ithna Ashar",
+            "ti": "እስና ዓሸር"
+          },
+          "translation": {
+            "am": "",
+            "en": "Twelve",
+            "ti": ""
+          },
+          "sound": "audio/level_13/13.mp3"
+        },
+        {
+          "id": 14,
+          "name": "١٣",
+          "transliteration": {
+            "ar": "ثلاثة عشر",
+            "am": "ሰላሰታ ዓሸር",
+            "en": "Thalathata Ashar",
+            "ti": "ሰላሰታ ዓሸር"
+          },
+          "translation": {
+            "am": "",
+            "en": "Thirteen",
+            "ti": "ዓሰርተ ሰለስተ"
+          },
+          "sound": "audio/level_13/14.mp3"
+        },
+        {
+          "id": 15,
+          "name": "١٤",
+          "transliteration": {
+            "ar": "أربعة عشر",
+            "am": "አርባዓታ ዓሸር",
+            "en": "Arba'ata Ashar",
+            "ti": "አርባዓታ ዓሸር"
+          },
+          "translation": {
+            "am": "",
+            "en": "Fourteen",
+            "ti": "ዓሰርተ አርባዐተ"
+          },
+          "sound": "audio/level_13/15.mp3"
+        },
+        {
+          "id": 16,
+          "name": "١٥",
+          "transliteration": {
+            "ar": "خمسة عشر",
+            "am": "ኸምሳታ ዓሸር",
+            "en": "Khamsata Ashar",
+            "ti": "ኸምሳታ ዓሸር"
+          },
+          "translation": {
+            "am": "",
+            "en": "Fifteen",
+            "ti": "ዓሰርተ ሓሙሽተ"
+          },
+          "sound": "audio/level_13/16.mp3"
+        },
+        {
+          "id": 17,
+          "name": "٢٠",
+          "transliteration": {
+            "ar": "عشرين",
+            "am": "ዒሽሩን",
+            "en": "Ishrun",
+            "ti": "ዒሽሩን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Twenty",
+            "ti": "ዒስራ"
+          },
+          "sound": "audio/level_13/17.mp3"
+        },
+        {
+          "id": 18,
+          "name": "٣٠",
+          "transliteration": {
+            "ar": "ثلاثين",
+            "am": "ሰላሱን",
+            "en": "Thalathun",
+            "ti": "ሰላሱን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Thirty",
+            "ti": "ሰላሳ"
+          },
+          "sound": "audio/level_13/18.mp3"
+        },
+        {
+          "id": 19,
+          "name": "٤٠",
+          "transliteration": {
+            "ar": "أربعين",
+            "am": "አርባዑን",
+            "en": "Arba'un",
+            "ti": "አርባዑን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Forty",
+            "ti": "አርባዓ"
+          },
+          "sound": "audio/level_13/19.mp3"
+        },
+        {
+          "id": 20,
+          "name": "٥٠",
+          "transliteration": {
+            "ar": "خمسين",
+            "am": "ኸምሱን",
+            "en": "Khamsun",
+            "ti": "ኸምሱን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Fifty",
+            "ti": "ሓምሳ"
+          },
+          "sound": "audio/level_13/20.mp3"
+        },
+        {
+          "id": 21,
+          "name": "٦٠",
+          "transliteration": {
+            "ar": "ستين",
+            "am": "ሲቱን",
+            "en": "Sittun",
+            "ti": "ሲቱን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Sixty",
+            "ti": "ስሳ"
+          },
+          "sound": "audio/level_13/21.mp3"
+        },
+        {
+          "id": 22,
+          "name": "٧٠",
+          "transliteration": {
+            "ar": "سبعين",
+            "am": "ሰብዑን",
+            "en": "Sab'un",
+            "ti": "ሰብዑን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Seventy",
+            "ti": "ሰብዓ"
+          },
+          "sound": "audio/level_13/22.mp3"
+        },
+        {
+          "id": 23,
+          "name": "٨٠",
+          "transliteration": {
+            "ar": "ثمانين",
+            "am": "ሰማኑን",
+            "en": "Thamanun",
+            "ti": "ሰማኑን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Eighty",
+            "ti": "ሰማንያ"
+          },
+          "sound": "audio/level_13/23.mp3"
+        },
+        {
+          "id": 24,
+          "name": "٩٠",
+          "transliteration": {
+            "ar": "تسعين",
+            "am": "ቲስዑን",
+            "en": "Tis'un",
+            "ti": "ቲስዑን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Ninety",
+            "ti": "ቴስዓ"
+          },
+          "sound": "audio/level_13/24.mp3"
+        },
+        {
+          "id": 25,
+          "name": "١٠٠",
+          "transliteration": {
+            "ar": "مائة",
+            "am": "ምእት",
+            "en": "Mi'ah",
+            "ti": "ምእት"
+          },
+          "translation": {
+            "am": "",
+            "en": "Hundred",
+            "ti": "ሓደ ሚእቲ"
+          },
+          "sound": "audio/level_13/25.mp3"
+        },
+        {
+          "id": 26,
+          "name": "١٠٠٠",
+          "transliteration": {
+            "ar": "ألف",
+            "am": "አልፍ",
+            "en": "Alf",
+            "ti": "አልፍ"
+          },
+          "translation": {
+            "am": "",
+            "en": "Thousand",
+            "ti": "ሓደ ሽሕ"
+          },
+          "sound": "audio/level_13/26.mp3"
+        },
+        {
+          "id": 27,
+          "name": "١٠٠٠٠٠",
+          "transliteration": {
+            "ar": "مليون",
+            "am": "ሚልዮን",
+            "en": "Milyon",
+            "ti": "ሚልዮን"
+          },
+          "translation": {
+            "am": "",
+            "en": "Million",
+            "ti": "ሚልዮን"
+          },
+          "sound": "audio/level_13/27.mp3"
+        }
+      ]
+    }
+  ]
+}
